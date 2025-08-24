@@ -20,3 +20,7 @@ __pycache__/
 
 # ESP32 / PlatformIO
 .pio/
+
+# Env files
+backend/.env
+
