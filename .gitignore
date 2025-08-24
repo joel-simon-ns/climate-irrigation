@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# ESP32 / PlatformIO
+.pio/
